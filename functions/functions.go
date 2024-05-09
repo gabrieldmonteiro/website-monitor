@@ -16,7 +16,7 @@ const loops = 24
 const delay = 3600
 
 func ShowMenu() {
-	fmt.Println("1- Start Monitore")
+	fmt.Println("1- Start Monitoring")
 	fmt.Println("2- Show Logs")
 	fmt.Println("0- Exit")
 }
